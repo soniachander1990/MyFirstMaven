@@ -9,6 +9,7 @@ public class profiles {
 	public void employeeProfile() {
 		System.out.println("This is employee profile");
 		System.out.println("This is sonia profile");
+		System.out.println("Sonia chander");
 	}
 	
 	@Test
