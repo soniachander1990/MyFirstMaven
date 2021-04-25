@@ -12,6 +12,7 @@ public class employeeLogin {
 	@Test
 	public void managerLogin() {
 		System.out.println("This is manager profile");
+		System.out.println("Employee profile");
 	}
 	
 	@Test
