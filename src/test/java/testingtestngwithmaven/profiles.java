@@ -16,5 +16,11 @@ public class profiles {
 	public void managerProfile() {
 		System.out.println("manager profile");
 		System.out.println("American profile");
+		System.out.println("Harman profile");
+	}
+	@Test
+	public void CustomerProfiles() {
+		System.out.println("customer profile");
+		
 	}
 }
