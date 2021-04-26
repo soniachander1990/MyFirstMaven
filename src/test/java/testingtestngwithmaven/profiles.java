@@ -15,5 +15,6 @@ public class profiles {
 	@Test
 	public void managerProfile() {
 		System.out.println("manager profile");
+		System.out.println("American profile");
 	}
 }
